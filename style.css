@@ -1,0 +1,57 @@
+body {
+	background-color: rgba(210, 105, 30, 0.671);
+	margin: 0px;
+}
+
+.header {
+	/* border: 5px, solid, black;
+	border-color: blue; */
+	padding: 20px;
+	text-align: center;
+	/* position: absolute; */
+	background-color: chocolate;
+	width: 100%;
+	margin: 0px;
+}
+#mulai h1 {
+	margin: auto;
+	margin-top: 20px;
+	border-color: black;
+    border-width: 5px;
+	border-style: solid;
+	/* border-radius: 50%; */
+	padding: 20px;
+	text-align: center;
+	width: 25%;
+	/* position: absolute; */
+	background-color: rgba(210, 105, 30, 0.671);
+	left: 20%;
+	/* margin: 0px;	 */
+}
+
+#soal {
+	margin: auto;
+	margin-top: 20px;
+	padding: 10px;
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	text-align: center;
+	width: 30%;
+	/* visibility: hidden; */
+}
+#ganti {
+	margin: auto;
+	margin-top: 20px;
+	border-color: black;
+    border-width: 5px;
+	border-style: solid;
+	/* border-radius: 50%; */
+	padding: 10px;
+	text-align: center;
+	width: 25%;
+	/* position: absolute; */
+	background-color: rgba(210, 105, 30, 0.671);
+	left: 20%;
+	/* margin: 0px;	 */
+}
